@@ -1,5 +1,3 @@
-## Documentation
-- [Technical Blog Post](blog.md) - Detailed explanation of the implementation
 Building a Smart Movie Recommendation System in Python
 In this blog post, I'll walk you through creating a command-line movie recommendation system using Python. We'll implement efficient data structures, search algorithms, and a user-friendly interface to help users discover movies based on their preferred genres.
 Project Overview
@@ -12,7 +10,7 @@ Uses optimal data structures for fast retrieval
 
 Technical Implementation
 The Trie Data Structure
-For efficient genre autocomplete, we implemented a Trie (prefix tree) data structure. This gives us O(m) time complexity for searching, where m is the length of the prefix:
+For efficient genre autocomplete, we implemented a Trie (prefix tree) data structure:
 pythonCopyclass TrieNode:
     def __init__(self):
         self.children = {}
@@ -98,7 +96,7 @@ Adding external movie data sources
 Creating a web-based interface
 
 Conclusion
-This project demonstrates how proper data structure selection and algorithm implementation can create an efficient and user-friendly recommendation system. The complete code is available in this repository.
+This project demonstrates how proper data structure selection and algorithm implementation can create an efficient and user-friendly recommendation system.
 How to Use
 
 Clone the repository:
