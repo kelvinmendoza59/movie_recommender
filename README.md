@@ -5,6 +5,9 @@ Features
 Genre-based movie search with autocomplete
 Detailed movie information including:
 
+## Documentation
+- [Technical Blog Post](blog.md) - Detailed explanation of the implementation
+
 Title
 Release Year
 Rating
@@ -46,5 +49,5 @@ Contributing
 Fork the repository
 Create a new branch
 Make your changes
-Submit a pull request## Documentation
-- [Technical Blog Post](blog/README.md) - Detailed explanation of the implementation
+Submit a pull request
+
