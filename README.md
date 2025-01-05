@@ -46,4 +46,5 @@ Contributing
 Fork the repository
 Create a new branch
 Make your changes
-Submit a pull request
+Submit a pull request## Documentation
+- [Technical Blog Post](blog/README.md) - Detailed explanation of the implementation
