@@ -1,4 +1,4 @@
-## Movie Recommender
+# Movie Recommender
 
 A Python-based command-line movie recommendation system.
 
