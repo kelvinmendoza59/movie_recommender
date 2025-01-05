@@ -1,0 +1,4 @@
+No external dependencies required for basic functionality
+Future enhancements might require:
+pandas
+numpy
